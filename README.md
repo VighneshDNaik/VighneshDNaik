@@ -2,16 +2,10 @@
 
 I am a research scientist working at the interface of **artificial intelligence and quantum physics**. My current and recent work focuses on simulating the **nonequilibrium dynamics of correlated quantum matter** in **two- and three-dimensional systems**.
 
-This includes the use of **neural quantum states** for large-scale simulations of generic quantum many-body systems, as well as **custom Julia-based numerical frameworks** employing **exact time evolution and Krylov-subspace methods** to study **constrained quantum models** with restricted Hilbert spaces.
+This includes the use of **neural quantum states** for large-scale simulations of quantum many-body systems, as well as **custom Julia-based numerical frameworks** employing **exact time evolution and Krylov-subspace methods** to study **constrained quantum models** with restricted Hilbert spaces.
 
 ## Interests
 - Quantum many-body dynamics
-- Machine learning for physics
-- Constrained and fragmented quantum systems
+- Machine learning for quantum physics
+- Constrained quantum matter
 - High-performance scientific computing
-
-## Tools
-- Julia, Python
-- Krylov methods, exact diagonalization
-- Neural quantum states
-- HPC & GPU computing
