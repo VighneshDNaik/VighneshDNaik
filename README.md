@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Me
 
-<!--
-**VighneshDNaik/VighneshDNaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a research scientist working at the interface of **artificial intelligence and quantum physics**. My current and recent work focuses on simulating the **nonequilibrium dynamics of correlated quantum matter** in **two- and three-dimensional systems**.
 
-Here are some ideas to get you started:
+This includes the use of **neural quantum states** for large-scale simulations of generic quantum many-body systems, as well as **custom Julia-based numerical frameworks** employing **exact time evolution and Krylov-subspace methods** to study **constrained quantum models** with restricted Hilbert spaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Quantum many-body dynamics
+- Machine learning for physics
+- Constrained and fragmented quantum systems
+- High-performance scientific computing
+
+## Tools
+- Julia, Python
+- Krylov methods, exact diagonalization
+- Neural quantum states
+- HPC & GPU computing
