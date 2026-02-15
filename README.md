@@ -8,6 +8,5 @@ My current and recent work focuses on simulating the **nonequilibrium dynamics o
 - Quantum many-body dynamics  
 - Machine learning for quantum physics
 - Quantum Information and Matter
-- Constrained quantum matter  
-- High-performance scientific computing  
+- Constrained quantum matter   
 
